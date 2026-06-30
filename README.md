@@ -76,7 +76,6 @@ Chatbot de suporte com IA desenvolvido em n8n, integrado ao Google Sheets como b
 * Integração de APIs;
 * Aplicações práticas de inteligência artificial;
 * Boas práticas de documentação no GitHub;
-* Programação orientada a objetos.
 
 ---
 
