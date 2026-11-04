@@ -1,5 +1,5 @@
 <div align="right">
-
+  
 [🇺🇸 English](README.md) | 🇧🇷 Português
 
 </div>
