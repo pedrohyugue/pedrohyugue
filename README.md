@@ -1,81 +1,87 @@
-# Olá, eu sou o Pedro Henrique Yugue 👋
+<div align="right">
 
-Sou estudante de **Ciência da Computação** e estou construindo minha trajetória na área de tecnologia, com interesse em **suporte técnico, automação, inteligência artificial, organização de processos e desenvolvimento de soluções práticas**.
+🇺🇸 English | [🇧🇷 Português](README.pt-BR.md)
 
-Tenho experiência com manutenção de computadores, atendimento técnico, organização de demandas e criação de projetos acadêmicos e experimentais envolvendo programação, automações e integração entre ferramentas.
+</div>
 
-Atualmente estou focado em evoluir meu portfólio, documentar meus projetos e buscar oportunidades para aplicar tecnologia de forma clara, útil e bem estruturada.
+# Hi, I'm Pedro Henrique Yugue 👋
 
----
+I'm a **Computer Science** student building my career in technology, with a focus on **technical support, automation, artificial intelligence, process organization and practical solution development**.
 
-## 🚀 Sobre mim
+I have hands-on experience with computer maintenance, technical support, request management, and academic and experimental projects involving programming, automation and tool integration.
 
-* 🎓 Estudante de **Ciência da Computação**
-* 🛠️ Experiência com **suporte técnico, manutenção de computadores e resolução de problemas**
-* 🤖 Interesse em **IA, automações, chatbots e ferramentas no-code/low-code**
-* 📊 Gosto de organizar ideias, estruturar processos e transformar problemas em soluções práticas
-* 💻 Desenvolvendo projetos com **Java, n8n, Docker, Google Sheets, APIs e IA**
-* 📍 Brasil
+I'm currently focused on growing my portfolio, documenting my projects and looking for opportunities to apply technology in a clear, useful and well-structured way.
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## 🚀 About me
+
+* 🎓 **Computer Science** student
+* 🛠️ Experience in **technical support, computer maintenance and problem solving**
+* 🤖 Interested in **AI, automation, chatbots and no-code/low-code tools**
+* 📊 I enjoy organizing ideas, structuring processes and turning problems into practical solutions
+* 💻 Building projects with **Java, n8n, Docker, Google Sheets, APIs and AI**
+* 📍 Brazil
+
+---
+
+## 🧰 Technologies and tools
 
 <div align="left">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge\&logo=googlesheets\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured projects
 
 ### 🎨 Java Graphics Editor
 
-Editor gráfico desenvolvido em Java para a disciplina de LP2, com criação e manipulação de figuras geométricas usando Programação Orientada a Objetos, AWT/Swing e eventos de teclado e mouse.
+A graphics editor built in Java for the LP2 (Programming Languages II) course, allowing users to create and manipulate geometric shapes using Object-Oriented Programming, AWT/Swing, and keyboard and mouse events.
 
-**Principais pontos do projeto:**
+**Key features:**
 
-* Criação de figuras geométricas;
-* Manipulação por teclado e mouse;
-* Uso de herança e polimorfismo;
-* Interface gráfica com Java AWT/Swing;
-* Persistência simples de objetos.
+* Creation of geometric shapes;
+* Keyboard and mouse manipulation;
+* Use of inheritance and polymorphism;
+* Graphical interface with Java AWT/Swing;
+* Simple object persistence.
 
-🔗 Repositório: [lp2-java-graphics-editor](https://github.com/pedrohyugue/lp2-java-graphics-editor)
+🔗 Repository: [lp2-java-graphics-editor](https://github.com/pedrohyugue/lp2-java-graphics-editor)
 
 ---
 
 ### 🤖 n8n AI Support Chatbot
 
-Chatbot de suporte com IA desenvolvido em n8n, integrado ao Google Sheets como base de conhecimento, utilizando Docker e Groq API para gerar respostas automáticas, contextualizadas e baseadas nos dados cadastrados.
+An AI-powered support chatbot built in n8n, integrated with Google Sheets as a knowledge base, using Docker and the Groq API to generate automatic, context-aware answers based on the registered data.
 
-**Principais pontos do projeto:**
+**Key features:**
 
-* Workflow automatizado no n8n;
-* Base de conhecimento em Google Sheets;
-* Filtro de relevância com JavaScript;
-* Integração com modelo de IA via API;
-* Execução local/self-hosted com Docker.
+* Automated workflow in n8n;
+* Knowledge base in Google Sheets;
+* Relevance filter written in JavaScript;
+* AI model integration via API;
+* Local/self-hosted deployment with Docker.
 
-🔗 Repositório: [n8n-ai-support-chatbot](https://github.com/pedrohyugue/n8n-ai-support-chatbot)
+🔗 Repository: [n8n-ai-support-chatbot](https://github.com/pedrohyugue/n8n-ai-support-chatbot)
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Currently learning
 
-* Desenvolvimento de projetos para portfólio;
-* Automação de processos com n8n;
-* Integração de APIs;
-* Aplicações práticas de inteligência artificial;
-* Boas práticas de documentação no GitHub;
+* Building portfolio projects;
+* Process automation with n8n;
+* API integration;
+* Practical applications of artificial intelligence;
+* Documentation best practices on GitHub.
 
 ---
 
@@ -83,22 +89,22 @@ Chatbot de suporte com IA desenvolvido em n8n, integrado ao Google Sheets como b
 
 <div align="left">
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohyugue\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohyugue&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohyugue\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohyugue&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Onde me encontrar
+## 🤝 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Yugue-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedrohyugue/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Yugue-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohyugue/)
 
 ---
 
-## 💡 Objetivo
+## 💡 Goal
 
-Meu objetivo é crescer profissionalmente na área de tecnologia, unindo conhecimento técnico, organização, comunicação e capacidade de resolver problemas de forma prática.
+My goal is to grow professionally in technology by combining technical knowledge, organization, communication and practical problem-solving skills.
 
-Busco oportunidades onde eu possa aprender, contribuir com soluções reais e evoluir em áreas como **suporte técnico, automação, IA, análise de processos e desenvolvimento de projetos**.
+I'm looking for opportunities where I can learn, contribute real solutions and grow in areas such as **technical support, automation, AI, process analysis and project development**.
